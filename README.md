@@ -1,6 +1,11 @@
 
 
-👋 Hi, I’m **Rahul Jadhav** — a passionate tech enthusiast and third-year **BE IT** student at **Vasantdada Patil Pratishthan's College of Engineering**. Currently expanding my skill set in **Full-Stack Web Development** with **LiveTech India**.
+### 👋 Hi, I’m Rahul Jadhav
+
+🚀 A passionate tech enthusiast and third-year **BE IT** student at **Vasantdada Patil Pratishthan's College of Engineering**.  
+
+💻 Currently expanding my skill set in **Full-Stack Web Development** with **LiveTech India**. 
+
 
 💡 I’ve developed proficiency in **HTML**, **CSS**, **JavaScript**, and **React**. I’m excited to explore the endless possibilities of web development, create innovative projects, and collaborate with like-minded developers.
 
