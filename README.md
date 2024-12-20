@@ -7,7 +7,7 @@
 💻 Currently expanding my skill set in **Full-Stack Web Development** with **LiveTech India**. 
 
 
-💡 I’ve developed proficiency in **HTML**, **CSS**, **JavaScript**, and **React**. I’m excited to explore the endless possibilities of web development, create innovative projects, and collaborate with like-minded developers.
+💡 I’ve developed proficiency in **HTML**, **CSS**, **JavaScript**,**Python**,**Flask** and **React**. I’m excited to explore the endless possibilities of web development, create innovative projects, and collaborate with like-minded developers.
 
 ![Anurag's GitHub stats]( https://github-readme-stats.vercel.app/api?username=RAHULJADHAV-07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
